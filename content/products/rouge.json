@@ -1,0 +1,19 @@
+{
+  "id": "rouge",
+  "price": "820",
+  "title": "Rouge",
+  "weight": "100",
+  "color": "Red",
+  "description": "Confectionné de cuir 100% véritable et d'un toucher doux unique en son genre. Ce modèle sera vous séduire grâce à sa couleur intemporelle ainsi que sa doublure faite de matériaux textiles de haute qualité. Il dispose de raccords en laiton avec un revêtement d'or pour éviter la corrosion, etle couvercle est une fermeture à glissière en métal.",
+  "country": "Mexico",
+  "composition": "100% Cuir véritable.",
+  "details": "Raccords en laiton avec revêtement en or pour éviter la corrosion, et la couverture est une fermeture à glissière en métal.",
+  "sizefit": "Venison cow kielbasa buffalo meatball shank, meatloaf pancetta swine bacon fatback chislic short loin",
+  "img": "https://res.cloudinary.com/dyhiu8zse/image/upload/v1612114284/IMG_0441_vexgcw__3_fablfg.jpg",
+  "alt": "Elegance",
+  "category": {
+    "name": "Bag",
+    "bio": "All about Choi and where he works and what he does",
+    "img": "https://images.unsplash.com/photo-1534471770828-9bde524ee634?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+  }
+}

@@ -1,0 +1,68 @@
+/*
+ ** Browser
+ */
+html {
+  scroll-behavior: smooth;
+}
+::selection {
+  color: black;
+  background: #f2d4c2;
+}
+
+/*
+ ** Google Fonts
+ */
+.font-dm {
+  font-family: "DM Sans", sans-serif;
+}
+
+/*
+ ** Black & White Hover Image
+ */
+img.bw-img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+img.bw-img:hover {
+  -webkit-filter: grayscale(0);
+  filter: grayscale(0);
+}
+
+/*
+ ** Snipcart
+
+.snipcart-modal {
+  @apply bg-white;
+}
+.snipcart-cart-header {
+  @apply bg-black w-full;
+}
+.snipcart-modal__close-title {
+  @apply text-white;
+}
+.snipcart-cart-header__title {
+  @apply font-dm text-white text-lg;
+}
+.snipcart-cart-button {
+  @apply bg-black text-white;
+}
+.snipcart-cart__content {
+  @apply bg-white;
+}
+.snipcart-featured-payment-methods__title {
+  @apply bg-white;
+}
+.snipcart__box--badge-highlight {
+  background: rgb(242, 212, 194);
+  box-shadow: none;
+  border: none;
+}
+.snipcart-modal__container {
+  z-index: 0;
+}
+.snipcart-cart-button--highlight {
+  background-image: none;
+  background-color: black;
+}*/
