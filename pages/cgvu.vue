@@ -410,8 +410,8 @@
       <p class="mt-6 text-xs">
         Ces Conditions Générales de Vente et d’Utilisation, ainsi que tout autre
         accord séparé par le biais duquel nous vous fournissons des Services
-        seront régis et interprétés en vertu des lois en vigueur à 625 rue
-        Frontenac, Longueuil, QC, J4J2E8, Canada.
+        seront régis et interprétés en vertu des lois en vigueur à 101 - 1615
+        rue Kent, Longueuil, QC, J4J 4K1, Canada.
       </p>
       <h2 class="font-dm font-medium text-md mt-20">
         ARTICLE 19 – MODIFICATIONS APPORTÉES AUX CONDITIONS GÉNÉRALES DE VENTE

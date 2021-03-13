@@ -8,7 +8,7 @@
             <h1 class="font-medium font-dm text-5xl mb-12">
               Nos pièces
             </h1>
-            <p class="text-xl font-light mt-4 px-20">
+            <p class="text-xl font-light mt-4 lg:px-20">
               Découvrez des pièces soigneusement fabriquées au Mexique, et conçu
               avec amour.
             </p>
@@ -16,8 +16,8 @@
         </div>
       </div>
 
-      <div class="flex justify-between">
-        <div class="w-full mr-12">
+      <div class="lg:flex justify-between">
+        <div class="w-full lg:mr-12 mb-12">
           <nuxt-link to="/product/category/mask" class="cursoir-pointer">
             <h2 class="font-dm text-6xl mb-4">Mask</h2>
             <img
@@ -26,13 +26,13 @@
             />
           </nuxt-link>
         </div>
-        <div class="w-full ml-12">
+        <div class="w-full lg:ml-12">
           <nuxt-link to="/product/category/Bag" class="cursor=pointer">
             <img
               class="bw-img"
               src="https://res.cloudinary.com/dyhiu8zse/image/upload/v1599012152/photo-1566150905458-1bf1fc113f0d_cmeaqe.jpg"
             />
-            <h2 class="font-dm text-6xl text-right m4-2">Bag</h2>
+            <h2 class="font-dm text-6xl text-right mt-4">Bag</h2>
           </nuxt-link>
         </div>
       </div>

@@ -71,7 +71,7 @@
           spam.
         </p>
         <!-- Begin Mailchimp Signup Form -->
-        <div id="mc_embed_signup">
+        <div class="px-20" id="mc_embed_signup">
           <form
             action="https://maisongratziano.us2.list-manage.com/subscribe/post?u=17ecf72d57bc404f690896cbf&amp;id=78f1e88129"
             method="post"
@@ -124,7 +124,7 @@
                   value="Subscribe"
                   name="subscribe"
                   id="mc-embedded-subscribe"
-                  class="button"
+                  class="button px-6 py-2 bg-white text-black "
                 />
               </div>
             </div>
