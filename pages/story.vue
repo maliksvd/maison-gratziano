@@ -51,7 +51,7 @@
               </div>
               <div class="flex flex-wrap -m-4">
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div
                       class="flex items-center inline-flex items-center justify-center mb-2"
                     >
@@ -70,7 +70,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div class="flex inline-flex items-center justify-center">
                       <div class="w-16 h-16">
                         <img src="/ln.png" alt="" />
@@ -91,7 +91,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div class="flex inline-flex items-center justify-center">
                       <div class="w-16 h-16">
                         <img src="/iso.png" alt="" />
@@ -107,7 +107,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div class="flex inline-flex items-center justify-center">
                       <div class="w-20 h-12">
                         <img src="/oehha.png" alt="" />
@@ -130,7 +130,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div class="flex inline-flex items-center justify-center">
                       <div class="w-20 h-12">
                         <img src="/satra.png" alt="" />
@@ -150,7 +150,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div
                       class="flex inline-flex items-center justify-center mb-3"
                     >
@@ -172,7 +172,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div
                       class="flex inline-flex items-center justify-center  mb-3"
                     >
@@ -192,7 +192,7 @@
                   </div>
                 </div>
                 <div class="p-4 md:w-1/3">
-                  <div class="flex rounded-lg h-full bg-gray-100 p-8 flex-col">
+                  <div class="flex h-full bg-gray-100 p-8 flex-col">
                     <div class="flex inline-flex items-center justify-center">
                       <div class="w-20 h-12">
                         <img src="/ctpat.jpeg" alt="" />
