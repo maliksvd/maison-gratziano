@@ -1,7 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
-
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "%s - Maison Gratziano",
@@ -9,8 +8,13 @@ export default {
       lang: "fr"
     },
     meta: [
-      { charset: "utf-8" },
-      { name: "viewport", content: "width=device-width, initial-scale=1" },
+      {
+        charset: "utf-8"
+      },
+      {
+        name: "viewport",
+        content: "width=device-width, initial-scale=1"
+      },
       {
         hid: "description",
         name: "description",
@@ -18,9 +22,19 @@ export default {
       }
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
-      { rel: "preconnect", href: "https://app.snipcart.com" },
-      { rel: "preconnect", href: "https://cdn.snipcart.com" },
+      {
+        rel: "icon",
+        type: "image/x-icon",
+        href: "/favicon.ico"
+      },
+      {
+        rel: "preconnect",
+        href: "https://app.snipcart.com"
+      },
+      {
+        rel: "preconnect",
+        href: "https://cdn.snipcart.com"
+      },
       {
         rel: "stylesheet",
         href: "https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.css"
@@ -33,16 +47,12 @@ export default {
       }
     ]
   },
-
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: ["~/assets/css/app.css"],
-
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
-
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
-
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
@@ -50,7 +60,6 @@ export default {
     "@nuxtjs/google-fonts",
     "nuxt-protected-mailto"
   ],
-
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: ["@nuxt/content"],
 
@@ -79,7 +88,6 @@ export default {
   content: {
     nestedProperties: ["category.name"]
   },
-
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     html: {

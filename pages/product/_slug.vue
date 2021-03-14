@@ -124,7 +124,7 @@
                   value="Subscribe"
                   name="subscribe"
                   id="mc-embedded-subscribe"
-                  class="button px-6 py-2 bg-white text-black "
+                  class="button px-6 py-2 bg-white text-black t"
                 />
               </div>
             </div>

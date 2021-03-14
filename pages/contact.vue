@@ -113,6 +113,12 @@ export default {
         content: "Contact us with your feedback and suggestions."
       }
     ]
+  },
+  mounted() {
+    this.$nextTick(() => {
+      this.$nuxt.$loading.start();
+      setTimeout(() => this.$nuxt.$loading.finish(), 5000);
+    });
   }
 };
 </script>
